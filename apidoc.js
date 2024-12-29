@@ -123,5 +123,6 @@ The API uses a granular permission system to control access to different functio
 Permissions include: view_miner, edit_miner, view_all, edit_all, edit_owned, and view_owned and edit_pools, view_pools4212224....
   
 API tokens can be created with specific permissions, allowing fine-grained access control3.
+
 In summary, the API provides a comprehensive way to manage and monitor IceRiver ASICs, allowing users to retrieve data, modify settings, and perform actions remotely and programmatically, with a strong focus on security and control.
 
