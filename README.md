@@ -1,4 +1,8 @@
-Project Focus: The core of this project revolves around creating custom firmware for IceRiver ASICs. This firmware provides enhanced functionality such as:
+Project Focus: 
+
+The core of this project revolves around creating custom firmware for IceRiver ASICs.
+
+This firmware provides enhanced functionality such as:
 
 ●Configurable clock and voltage offsets.
 
@@ -25,6 +29,7 @@ Project Focus: The core of this project revolves around creating custom firmware
 ●Healthcheck loop.
 
 ●Fee structure which is currently 1% for the base version, and a commercial/hosting version with a 1.33% fee.
+
 
 Key aspects to consider for the name:
 
